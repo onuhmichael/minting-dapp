@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7aC432F614D019a3d01BdA917Ae6Bf3ccAD77285",
+  "SCAN_LINK": "https://polygonscan.com/token/0x7ac432f614d019a3d01bda917ae6bf3ccad77285",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Memento Mori",
+  "SYMBOL": "MM",
+  "MAX_SUPPLY": 8000,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "hhttps://opensea.io/collection/memento-mori-nft",
+  "SHOW_BACKGROUND": true
+}
